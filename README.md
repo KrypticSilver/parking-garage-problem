@@ -1,1 +1,1 @@
-# parking-garage-problem
+# Parking Garage Problem
